@@ -1,0 +1,21 @@
+.elementor-2112 .elementor-element.elementor-element-15322ef5:not(.elementor-motion-effects-element-type-background), .elementor-2112 .elementor-element.elementor-element-15322ef5 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#00000000;}.elementor-2112 .elementor-element.elementor-element-15322ef5{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-2112 .elementor-element.elementor-element-15322ef5 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-2112 .elementor-element.elementor-element-30d734da{text-align:left;top:17px;}.elementor-2112 .elementor-element.elementor-element-30d734da img{width:30px;}body:not(.rtl) .elementor-2112 .elementor-element.elementor-element-30d734da{left:0px;}body.rtl .elementor-2112 .elementor-element.elementor-element-30d734da{right:0px;}.elementor-2112 .elementor-element.elementor-element-13d64612 .elementor-menu-toggle{margin:0 auto;}.elementor-2112 .elementor-element.elementor-element-13d64612 .elementor-nav-menu .elementor-item{font-family:"Roboto", Sans-serif;font-size:16px;font-weight:500;text-transform:uppercase;}.elementor-2112 .elementor-element.elementor-element-13d64612 .elementor-nav-menu--main .elementor-item{color:#FFFFFF;fill:#FFFFFF;}.elementor-2112 .elementor-element.elementor-element-13d64612 .elementor-nav-menu--main .elementor-item:hover,
+					.elementor-2112 .elementor-element.elementor-element-13d64612 .elementor-nav-menu--main .elementor-item.elementor-item-active,
+					.elementor-2112 .elementor-element.elementor-element-13d64612 .elementor-nav-menu--main .elementor-item.highlighted,
+					.elementor-2112 .elementor-element.elementor-element-13d64612 .elementor-nav-menu--main .elementor-item:focus{color:#636F5C;fill:#636F5C;}.elementor-2112 .elementor-element.elementor-element-13d64612 .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:before,
+					.elementor-2112 .elementor-element.elementor-element-13d64612 .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:after{background-color:#61CE70;}.elementor-2112 .elementor-element.elementor-element-13d64612 .e--pointer-framed .elementor-item:before,
+					.elementor-2112 .elementor-element.elementor-element-13d64612 .e--pointer-framed .elementor-item:after{border-color:#61CE70;}.elementor-2112 .elementor-element.elementor-element-13d64612 .elementor-nav-menu--main .elementor-item.elementor-item-active{color:#FFFFFF;}.elementor-2112 .elementor-element.elementor-element-13d64612 .e--pointer-framed .elementor-item:before{border-width:0px;}.elementor-2112 .elementor-element.elementor-element-13d64612 .e--pointer-framed.e--animation-draw .elementor-item:before{border-width:0 0 0px 0px;}.elementor-2112 .elementor-element.elementor-element-13d64612 .e--pointer-framed.e--animation-draw .elementor-item:after{border-width:0px 0px 0 0;}.elementor-2112 .elementor-element.elementor-element-13d64612 .e--pointer-framed.e--animation-corners .elementor-item:before{border-width:0px 0 0 0px;}.elementor-2112 .elementor-element.elementor-element-13d64612 .e--pointer-framed.e--animation-corners .elementor-item:after{border-width:0 0px 0px 0;}.elementor-2112 .elementor-element.elementor-element-13d64612 .e--pointer-underline .elementor-item:after,
+					 .elementor-2112 .elementor-element.elementor-element-13d64612 .e--pointer-overline .elementor-item:before,
+					 .elementor-2112 .elementor-element.elementor-element-13d64612 .e--pointer-double-line .elementor-item:before,
+					 .elementor-2112 .elementor-element.elementor-element-13d64612 .e--pointer-double-line .elementor-item:after{height:0px;}/* Start custom CSS for section, class: .elementor-element-15322ef5 */.elementor-2112 .elementor-element.elementor-element-15322ef5.elementor-sticky--effects{
+background-color: rgba(16, 17, 14, 0.92)!important
+}
+.elementor-2112 .elementor-element.elementor-element-15322ef5{
+transition: background-color 1s ease !important;
+}
+
+.elementor-2112 .elementor-element.elementor-element-15322ef5.elementor-sticky--effects .small_logo{
+    display: block!important;
+}
+.elementor-2112 .elementor-element.elementor-element-15322ef5 > .small_logo{
+transition: display 1s ease !important;
+}/* End custom CSS */
